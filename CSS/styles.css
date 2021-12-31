@@ -55,7 +55,6 @@
     background-color: #e0ebe8;
     position: relative;
     padding-top: 100px;
-    height: 815px;
 }
 
  .top-cloud{
@@ -69,12 +68,6 @@
     left: 500px;
     bottom: 300px;
 }
-
- .mountain{
-    position: absolute;
-    top: 560px;
-    right: 650px;
- }
 
  .profile{
     margin: 100px auto 50px auto;
